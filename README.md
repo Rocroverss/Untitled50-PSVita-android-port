@@ -38,7 +38,14 @@ By doing so, it's basically as if we emulate a minimalist Android environment in
 - Install the vpk from Release tab.
 - Obtain your copy of *Untitled50* legally for Android in form of an `.apk` file.
 - Open the apk with your zip explorer and extract the files `libmain.so` from the `lib/armeabi-v7a` folder to `ux0:data/UNTITLED50`. 
-- Put the `assets` folder (the one that contains maps, music, shader... not the parent) inside `ux0:data/UNTITLED50` . 
+- Put the `assets` folder (the one that contains maps, music, shader... not the parent) inside `ux0:data/UNTITLED50` .
+- Final result:
+```
+└── UNTITLED50/
+  ├── assets/
+  ├── libmain.so
+  └── libc++_shared.so
+```
 
 ## Build Instructions (For Developers)
 
