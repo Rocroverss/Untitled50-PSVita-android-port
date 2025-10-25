@@ -1,6 +1,6 @@
 # Untitled50 Vita
 
-<p align="center"><img src="./screenshots/game.png"></p>
+<p align="center"><img src="./img/game.png"></p>
 
 This is a wrapper/port of <b>Untitled50</b> for the *PS Vita*.
 
@@ -79,6 +79,14 @@ After all these requirements are met, you can compile the loader with the follow
 mkdir build && cd build
 cmake .. && make
 ```
+
+## 📸 Screenshots
+
+![Screenshot 1](img/IMG5.png) 
+![Screenshot 2](img/IMG6.png) 
+![Screenshot 3](img/IMG7.png)  
+![Screenshot 4](img/IMG8.png)
+![Screenshot 5](img/IMG9.png)
 
 ## Credits
 
